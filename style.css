@@ -1,0 +1,25 @@
+/*
+ *Name: Walker Carraway
+ *UnityID: wrcarraw
+ *Date: 02/11/2020
+ *Assignment: IA 5
+ *Description: styling for everything
+ */
+ 
+p {
+    font-family:Times;
+	font-size: 16px;
+	color: #000000;
+  }
+}
+#photo {
+	max-height: 250;
+	max-width: 200;
+}
+.photoBorder {
+	border-style: outset;
+	border: 2px outset #00ff00;
+}
+.table-border {
+    border: 6px solid #000000 ;
+}
